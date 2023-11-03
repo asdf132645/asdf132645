@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,react,vue,flutter,gitlab,git,html,idea,js,jenkins,jest,mysql,nestjs,nginx,nextjs,nuxtjs,nodejs,postman,react,redux,sass,ts,visualstudio,webpack,&perline=2)](https://skillicons.dev)
+
+
