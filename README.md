@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1> 강지영의 기술 스택이 궁굼하시면 아래를 방문해주세요. </h1>
 <a href='https://asdf132645.github.io/page/'>https://asdf132645.github.io/page/</a>
-![header](https://capsule-render.vercel.app/api?text=jiWord&animation=fadeIn&type=waving&color=auto&height=200&section=header)
+<!-- ![header](https://capsule-render.vercel.app/api?text=jiWord&animation=fadeIn&type=waving&color=auto&height=200&section=header) -->
 
 </div>
 
