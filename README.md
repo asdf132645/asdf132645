@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h1> 팔방미인 개발자가 되기 위해 노력하는 개발자 </h1>
+<h1>  </h1>
 
 ![header](https://capsule-render.vercel.app/api?text=jiWord&animation=fadeIn&type=waving&color=auto&height=200&section=header)
 
