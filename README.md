@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 My Skills
 
-[![기술 경험](https://skillicons.dev/icons?i=aws,azure,react,vue,flutter,gitlab,git,html,idea,js,jenkins,jest,mysql,nestjs,nginx,nextjs,nuxtjs,nodejs,postman,react,redux,sass,ts,visualstudio,webpack,&perline=10)](https://skillicons.dev)
+[![기술 경험](https://skillicons.dev/icons?i=aws,azure,react,vue,flutter,gitlab,git,html,idea,js,jenkins,jest,mysql,nestjs,nginx,nextjs,nuxtjs,nodejs,postman,react,redux,sass,ts,visualstudio,webpack,&perline=12)](https://skillicons.dev)
 
