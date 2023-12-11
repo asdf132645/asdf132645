@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1> 강지영의 기술 스택이 궁굼하시면 아래를 방문해주세요. </h1>
 <a href='https://asdf132645.github.io/page/'>https://asdf132645.github.io/page/</a>
-<a href='https://www.notion.so/cb16777f15cc4065a0af1c529217e27a'>노션 방문하기</a>
+<p><a href='https://www.notion.so/cb16777f15cc4065a0af1c529217e27a'>노션 방문하기</a></p>
 <!-- ![header](https://capsule-render.vercel.app/api?text=jiWord&animation=fadeIn&type=waving&color=auto&height=200&section=header) -->
 
 </div>
